@@ -1,0 +1,32 @@
+Signature-Version: 1.0
+Created-By: 1.6.0_16 (Sun Microsystems Inc.)
+BDJ-Signature-Version: 1.0
+SHA1-Digest-Manifest: GkSDIOyAG9/L3UE1AQsEg8xzatE=
+
+Name: hellotvxlet/HelloTVXlet.class
+SHA1-Digest: KFJzMqBBGX9wkjTtLA86KA7JAQg=
+
+Name: hellotvxlet/MijnComponent.class
+SHA1-Digest: 0kp81SvfwXzBAVkDL5V6LOuIQGA=
+
+Name: hellotvxlet/PlayMovie.class
+SHA1-Digest: Df7Y5jeh3XMH0hNWppipdmD6TRo=
+
+Name: hellotvxlet/bluray.HelloTVXlet.perm
+SHA1-Digest: Iz2EmX/hIvVXbO3PX0e6hezSY28=
+
+Name: hellotvxlet/BonusImage.class
+SHA1-Digest: lBzhAzJU+Q6pzY9ECcoj32Fj/24=
+
+Name: hellotvxlet/NemoModel.class
+SHA1-Digest: 39cp1Y2W2qQqZ6L7o+EbUUcD0Og=
+
+Name: hellotvxlet/NemoView.class
+SHA1-Digest: HsOM0zdv3T1uWq9AjYcLl6UAJAQ=
+
+Name: hellotvxlet/MijnTimerTask.class
+SHA1-Digest: pedYOStOn5F9v6NMzRsaafGWSdQ=
+
+Name: hellotvxlet/NemoController.class
+SHA1-Digest: tQPmO1nUS2Nwq1LncsGCUkGi1yY=
+
